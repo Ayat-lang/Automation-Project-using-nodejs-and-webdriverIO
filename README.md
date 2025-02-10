@@ -1,4 +1,4 @@
-# Automation Testing Task Assignment
+# Automation Testing Project
 
 Automation testing URL on the (https://www.saucedemo.com/) site.
 
