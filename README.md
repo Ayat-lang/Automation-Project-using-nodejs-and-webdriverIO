@@ -7,6 +7,11 @@ Automation testing URL on the (https://www.saucedemo.com/) site.
 ```bash
    git clone git@github.com:Ayat-lang/Automation-Project-using-nodejs-and-webdriverIO.git
 ```
+## install the Dependency
+
+```bash
+   npm install
+```
 
 ## Run the project command 
 
